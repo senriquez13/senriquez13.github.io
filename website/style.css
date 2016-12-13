@@ -1,0 +1,25 @@
+/* practicing styles */
+
+body {
+	background-color: lightblue;
+	color: white;
+}
+
+h1 {
+	font-family: arial;
+	text-decoration: underline;
+}
+
+img {
+	width:10%;
+	height:15%;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul li {
+	list-style: none;
+
+}
