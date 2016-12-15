@@ -1,0 +1,40 @@
+body {
+	background-color: #6FFFE9;
+	color: white;
+	text-align: center;
+	width: 80%;
+}
+#container {
+	background-color: #5BC0BE;
+	list-style-type: none;
+/*	position: fixed;
+	top: 50%;
+	left: 50%;*/
+
+	}
+header ul {
+	list-style-type: none;
+}
+header li {
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	border: 2px solid black;
+
+}
+#text {
+	background-color: #1C2541;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	font-family: 'Abril Fatface', cursive;
+}
+h2 {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 110%;
+}
+img {
+	border-radius: 5px;
+}

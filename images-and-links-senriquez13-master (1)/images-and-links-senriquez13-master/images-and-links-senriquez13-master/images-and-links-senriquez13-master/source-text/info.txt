@@ -1,0 +1,5 @@
+IMAGE CREDIT - include this information in a title="..." attribute on your images. 
+
+ferris.jpg: Chicago by Roman Boed - https://flic.kr/p/xYdtNW
+skyline.jpg: Chicago by Roman Boed - https://flic.kr/p/ov1VKW
+
